@@ -7,4 +7,3 @@ services:
     - ./sample_training:/data/db
     ports:
     - 27017:27017
-version: "3.3"
